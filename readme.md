@@ -1,5 +1,4 @@
 Steps to run the application: 
-cd into APP
 
 ## npm i
 
