@@ -1,3 +1,6 @@
+create config.env file inside a config folder
+add your MONGO_URI and set PORT=8000 in config.env
+
 Steps to run the application: 
 
 ## npm i
